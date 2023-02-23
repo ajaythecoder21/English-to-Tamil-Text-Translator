@@ -1,4 +1,4 @@
-# Tamil-to-English-Text-Translator
+# English-to-Tamil-Text-Translator
 
 ## Goal
 - The goal of this project was to have a way to translate Tamil into English through text translation
