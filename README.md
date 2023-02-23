@@ -1,7 +1,7 @@
 # English-to-Tamil-Text-Translator
 
 ## Goal
-- The goal of this project was to have a way to translate Tamil into English through text translation
+- The goal of this project was to have a way to translate English into Tamil through text translation
 
 ## Tools
 - The tools used involves using Hugging Face Transformers with using a pre-trained T5-small model
